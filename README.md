@@ -1,1 +1,1 @@
-# Python test data generation
+# Генерация тестовых данных с использованием библиотеки Faker
